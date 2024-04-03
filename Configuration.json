@@ -1,0 +1,43 @@
+{
+	"Title": "InfoShow'24 Lan Party",
+	"BottomHeader": "Hello  Worldddd",
+	"InformationPanels":
+	[
+		{
+			"Header":"League Of Legends",
+			"StartTime":"2024-04-26T19:00Z",
+			"Information":"5v5 EU"
+		},
+		{
+			"Header":"CS2",
+			"StartTime":"2024-04-26T18:00Z",
+			"Information":"5v5 EU"
+		},
+		{
+			"Header":"Rocket League",
+			"StartTime":"2024-04-26T20:00Z",
+			"Information":"5v5 EU"
+		},
+		{
+			"Header":"Minecraft",
+			"StartTime":"2024-04-26T17:00Z",
+			"Information":"5v5 EU"
+		},
+		{
+			"Header":"Aram",
+			"StartTime":"2024-03-30T16:00Z",
+			"Information":"5v5 EU"
+		},
+		{
+			"Header":"Test33",
+			"StartTime":"2024-03-30T16:00Z",
+			"Information":"5v5 EU"
+		},
+		{
+			"Header":"Marbles on Stream",
+			"StartTime":"2024-03-29T13:00Z",
+			"Information":"5v5 EU"
+		},
+	]
+	
+}
